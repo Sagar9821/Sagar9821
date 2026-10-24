@@ -56,7 +56,7 @@ Casting platform for performers and casting professionals, serving **50K+ users*
 - Firebase Analytics, Crashlytics and Braze instrumentation, biometric app lock, push notifications
 - Apple and Google Play subscription flows; native iOS (Swift/UIKit) improvements with **80% test coverage**
 
-**Tech:** React Native, Expo, TypeScript, Swift, UIKit, GraphQL, Firebase, Braze, AWS SNS, EAS, GitHub Actions, Maestro
+**Tech:** React Native, Expo, TypeScript, Swift, UIKit, Firebase, Braze, AWS SNS, EAS, GitHub Actions, Maestro
 
 ### ⚡ Fast Cast · React Native + Expo · *Current*
 Mobile app with **20K+ users**. Payment integration and purchase flows, plus iOS/Android release engineering, build configuration and CI/CD.
